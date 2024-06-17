@@ -29,21 +29,21 @@ Esse projeto tem como objetivo captar e informar as equipes do automobilismo sob
 
 ### Execução Principal
 - **Função `loop()`**: Executa a leitura dos sensores, controla os LEDs e o motor com base nos valores lidos e exibe as informações no Serial Monitor.
-##Instruções de Uso
+## Instruções de Uso
 
-###Pré-requisitos
+### Pré-requisitos
 
 Arduino IDE instalado.
 
 Arduino Uno e componentes eletrônicos listados conectados conforme o diagrama.
 
-###Preparação do Projeto
+### Preparação do Projeto
 
 Certifique-se de que todos os componentes estão conectados corretamente na breadboard e no Arduino conforme o diagrama de montagem.
 
 Carregue o código no Arduino Uno usando a Arduino IDE.
 
-###Execução do Projeto
+### Execução do Projeto
 
 Conecte o Arduino ao computador usando o cabo USB.
 
@@ -51,7 +51,7 @@ Abra a Arduino IDE e carregue o código fornecido no Arduino.
 
 Abra o Serial Monitor na Arduino IDE para visualizar as leituras dos sensores.
 
-###Informações Relevantes
+### Informações Relevantes
 
 Certifique-se de que todos os componentes estão funcionando corretamente e conectados de acordo com o diagrama.
 
@@ -67,7 +67,7 @@ LED vermelho aceso: baixa luminosidade.
 
 O motor será desativado se a temperatura do motor exceder 90°C como medida de segurança.
 
-###Informações Adicionais
+### Informações Adicionais
 
 Verifique se o sensor de umidade está devidamente calibrado para a leitura correta dos valores.
 
