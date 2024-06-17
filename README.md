@@ -15,7 +15,7 @@ Esse projeto tem como objetivo captar e informar as equipes do automobilismo sob
 
 ## Circuito
 
-![Circuito do Projeto](Captura de tela 2024-06-17 113955.png)
+![Circuito do Projeto](image.png)
 
 ## Funcionalidades
 ### Leitura dos Dados
