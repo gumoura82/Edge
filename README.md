@@ -15,20 +15,20 @@ Esse projeto tem como objetivo captar e informar as equipes do automobilismo sob
 
 ## Funcionalidades
 ### Leitura dos Dados
-- **Função ler_sensores(): Lê os valores dos sensores de temperatura, umidade e luminosidade.
+- **Função `ler_sensores()`**: Lê os valores dos sensores de temperatura, umidade e luminosidade.
 
 ### Conversão de Dados
-- **Função converter_temperatura(analog_value): Converte a leitura analógica do sensor de temperatura para graus Celsius.
+- **Função `converter_temperatura(analog_value)`**: Converte a leitura analógica do sensor de temperatura para graus Celsius.
 
-- **Função converter_umidade(analog_value): Converte a leitura analógica do sensor de umidade para porcentagem.
+- **Função `converter_umidade(analog_value)`**: Converte a leitura analógica do sensor de umidade para porcentagem.
 
 ### Controle de Segurança
-- **Função controle_luminosidade(light_level): Define o nível de atenção necessário do piloto com base na leitura do sensor de luminosidade, utilizando LEDs de diferentes cores.
+- **Função `controle_luminosidade(light_level)`**: Define o nível de atenção necessário do piloto com base na leitura do sensor de luminosidade, utilizando LEDs de diferentes cores.
 
-- **Função controle_temperatura(temperature): Controla um motor externo para alertar se a temperatura do motor exceder um valor aceitável.
+- **Função `controle_temperatura(temperature)`**: Controla um motor externo para alertar se a temperatura do motor exceder um valor aceitável.
 
 ### Execução Principal
-- **Função loop(): Executa a leitura dos sensores, controla os LEDs e o motor com base nos valores lidos e exibe as informações no Serial Monitor.
+- **Função `loop()`**: Executa a leitura dos sensores, controla os LEDs e o motor com base nos valores lidos e exibe as informações no Serial Monitor.
 
 
 
