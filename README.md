@@ -13,6 +13,10 @@ Esse projeto tem como objetivo captar e informar as equipes do automobilismo sob
 3x Resistores de 10k ohms
 1x Resistor de 220 ohms
 
+## Circuito
+
+![Circuito do Projeto](Captura de tela 2024-06-17 113955.png)
+
 ## Funcionalidades
 ### Leitura dos Dados
 - **Função `ler_sensores()`**: Lê os valores dos sensores de temperatura, umidade e luminosidade.
