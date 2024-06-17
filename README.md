@@ -39,41 +39,41 @@ Arduino Uno e componentes eletrônicos listados conectados conforme o diagrama.
 
 ### Preparação do Projeto
 
-Certifique-se de que todos os componentes estão conectados corretamente na breadboard e no Arduino conforme o diagrama de montagem.
+- Certifique-se de que todos os componentes estão conectados corretamente na breadboard e no Arduino conforme o diagrama de montagem.
 
-Carregue o código no Arduino Uno usando a Arduino IDE.
+- Carregue o código no Arduino Uno usando a Arduino IDE.
 
 ### Execução do Projeto
 
-Conecte o Arduino ao computador usando o cabo USB.
+- Conecte o Arduino ao computador usando o cabo USB.
 
-Abra a Arduino IDE e carregue o código fornecido no Arduino.
+- Abra a Arduino IDE e carregue o código fornecido no Arduino.
 
-Abra o Serial Monitor na Arduino IDE para visualizar as leituras dos sensores.
+- Abra o Serial Monitor na Arduino IDE para visualizar as leituras dos sensores.
 
 ### Informações Relevantes
 
-Certifique-se de que todos os componentes estão funcionando corretamente e conectados de acordo com o diagrama.
+- Certifique-se de que todos os componentes estão funcionando corretamente e conectados de acordo com o diagrama.
 
-As leituras dos sensores de temperatura, umidade e luminosidade serão exibidas no Serial Monitor.
+- As leituras dos sensores de temperatura, umidade e luminosidade serão exibidas no Serial Monitor.
 
-Os LEDs indicam o nível de luminosidade na pista:
+- Os LEDs indicam o nível de luminosidade na pista:
 
-LED verde aceso: alta luminosidade.
+- LED verde aceso: alta luminosidade.
 
-LED amarelo aceso: luminosidade moderada.
+- LED amarelo aceso: luminosidade moderada.
 
-LED vermelho aceso: baixa luminosidade.
+- LED vermelho aceso: baixa luminosidade.
 
-O motor será desativado se a temperatura do motor exceder 90°C como medida de segurança.
+- O motor será desativado se a temperatura do motor exceder 90°C como medida de segurança.
 
 ### Informações Adicionais
 
-Verifique se o sensor de umidade está devidamente calibrado para a leitura correta dos valores.
+- Verifique se o sensor de umidade está devidamente calibrado para a leitura correta dos valores.
 
-O sensor de luminosidade (LDR) deve estar posicionado corretamente para capturar a luz ambiente na pista.
+- O sensor de luminosidade (LDR) deve estar posicionado corretamente para capturar a luz ambiente na pista.
 
-Mantenha os sensores limpos e em bom estado para garantir a precisão das leituras.
+- Mantenha os sensores limpos e em bom estado para garantir a precisão das leituras.
 
 ## Nomes e RMs
 
