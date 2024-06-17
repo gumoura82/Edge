@@ -30,38 +30,50 @@ Esse projeto tem como objetivo captar e informar as equipes do automobilismo sob
 ### Execução Principal
 - **Função `loop()`**: Executa a leitura dos sensores, controla os LEDs e o motor com base nos valores lidos e exibe as informações no Serial Monitor.
 ##Instruções de Uso
+
 ###Pré-requisitos
+
 Arduino IDE instalado.
+
 Arduino Uno e componentes eletrônicos listados conectados conforme o diagrama.
+
 ###Preparação do Projeto
+
 Certifique-se de que todos os componentes estão conectados corretamente na breadboard e no Arduino conforme o diagrama de montagem.
+
 Carregue o código no Arduino Uno usando a Arduino IDE.
+
 ###Execução do Projeto
+
 Conecte o Arduino ao computador usando o cabo USB.
+
 Abra a Arduino IDE e carregue o código fornecido no Arduino.
+
 Abra o Serial Monitor na Arduino IDE para visualizar as leituras dos sensores.
+
 ###Informações Relevantes
+
 Certifique-se de que todos os componentes estão funcionando corretamente e conectados de acordo com o diagrama.
+
 As leituras dos sensores de temperatura, umidade e luminosidade serão exibidas no Serial Monitor.
+
 Os LEDs indicam o nível de luminosidade na pista:
+
 LED verde aceso: alta luminosidade.
+
 LED amarelo aceso: luminosidade moderada.
+
 LED vermelho aceso: baixa luminosidade.
+
 O motor será desativado se a temperatura do motor exceder 90°C como medida de segurança.
+
 ###Informações Adicionais
+
 Verifique se o sensor de umidade está devidamente calibrado para a leitura correta dos valores.
+
 O sensor de luminosidade (LDR) deve estar posicionado corretamente para capturar a luz ambiente na pista.
+
 Mantenha os sensores limpos e em bom estado para garantir a precisão das leituras.
-
-
-
-
-
-
-
-
-
-
 
 ## Nomes e RMs
 
