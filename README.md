@@ -33,9 +33,9 @@ Esse projeto tem como objetivo captar e informar as equipes do automobilismo sob
 
 ### Pré-requisitos
 
-Arduino IDE instalado.
+- Arduino IDE instalado.
 
-Arduino Uno e componentes eletrônicos listados conectados conforme o diagrama.
+- Arduino Uno e componentes eletrônicos listados conectados conforme o diagrama.
 
 ### Preparação do Projeto
 
@@ -74,6 +74,9 @@ Arduino Uno e componentes eletrônicos listados conectados conforme o diagrama.
 - O sensor de luminosidade (LDR) deve estar posicionado corretamente para capturar a luz ambiente na pista.
 
 - Mantenha os sensores limpos e em bom estado para garantir a precisão das leituras.
+
+## Link do projeto:
+<a target="_blank" href="https://www.tinkercad.com/things/3usDwgRt4i4-edge-sprint/editel">Acesse o link do nosso projeto no Tinkercad</a>
 
 ## Nomes e RMs
 
